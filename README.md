@@ -1,2 +1,2 @@
 # image-gallery
-Деплой: https://tarasyonok.github.io/image-gallery
+Deploy: https://tarasyonok.github.io/image-gallery
